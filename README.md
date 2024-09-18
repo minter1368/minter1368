@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning web3 world
 - 💞️ I’m looking to collaborate with node runners,validators,coders,game enthusiats
 - 📫 How to reach me ?here
-- 😄 Pronouns: hiddern 
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: everyhing is like games.even our life
 
 <!---
